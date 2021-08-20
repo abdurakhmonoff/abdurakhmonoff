@@ -9,3 +9,4 @@
 ![image 8](/lesson_images/python/python_practice_img_2.png)
 ![image 9](/lesson_images/python/python_practice_img_3.png)
 ![image 10](/lesson_images/python/python_practice_img_4.png)
+![image 11](/lesson_images/python/python_practice_img_5.png)
