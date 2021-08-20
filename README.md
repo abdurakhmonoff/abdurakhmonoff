@@ -6,3 +6,4 @@
 ![image 5](/lesson_images/python/python_lesson_img_3.jpeg)
 ![image 6](/lesson_images/python/python_lesson_img_4.png)
 ![image 7](/lesson_images/python/python_practice_img_1.png)
+![image 7](/lesson_images/python/python_practice_img_2.png)
