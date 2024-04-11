@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Indie app developer working on [Uzdevs](https://uzdevs.com) and [other projects](https://appolish.tech); <br/>
+Indie app developer working on [Uzdevs](https://uzdevs.com) and [other projects](https://asrorbek.com); <br/>
 Full-time student at British Management University in Tashkent;
 
 🤖 Android: Android Studio, Kotlin, Jetpack Compose <br/>
