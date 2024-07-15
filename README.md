@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-Indie app developer working on [Uzdevs](https://uzdevs.com) and [other projects](https://asrorbek.com); <br/>
-Full-time student at British Management University in Tashkent;
+I am a Software Developer at Muvozanat Group LLC. Our company offers software development services to local small businesses and also functions as an outsourcing firm. Situated in Uzbekistan, one of the cheapest countries to live in, we provide high-quality services at lower prices.
 
-🤖 Android: Android Studio, Kotlin, Jetpack Compose <br/>
-🍎 iOS: Xcode, Swift, SwiftUI <br/>
-📚 Other: Python, ASO, UI/UX design, digital marketing
-
-[`🏠 asrorbek.com`](https://asrorbek.com)
-[`🏢 appolish.tech`](https://appolish.tech)
+Our website for <br/>
+ ... local businesses: [`🏠 muvozanat.uz`](https://muvozanat.uz) <br/>
+ ... international businesses: [`🌎 muvozanat.com`](https://muvozanat.com) <br/>
+My personal website: [`🙎‍♂️ asrorbek.uz`](https://muvozanat.uz)
