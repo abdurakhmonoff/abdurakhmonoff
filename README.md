@@ -5,4 +5,5 @@ I am a Software Developer at Muvozanat Group LLC. Our company offers software de
 Our website for <br/>
  ... local businesses: [`🏠 muvozanat.uz`](https://muvozanat.uz) <br/>
  ... international businesses: [`🌎 muvozanat.com`](https://muvozanat.com) <br/>
-My personal website: [`🙎‍♂️ asrorbek.uz`](https://muvozanat.uz)
+ <br/>
+My personal website: [`👨‍💻 asrorbek.com`](https://asrorbek.com)
